@@ -1,7 +1,7 @@
 {
     "name": "kemrash/dontcopy",
     "type": "phpbb-extension",
-    "description": "защита от копирования для незарегистрированных",
+    "description": "Защита от копирования для незарегистрированных",
     "homepage": "https://github.com/kemrash/dontcopy",
     "version": "0.0.1",
     "time": "2020-02-04",
