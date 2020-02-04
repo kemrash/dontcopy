@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Защита от копирования для незарегистрированных",
     "homepage": "https://github.com/kemrash/dontcopy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "time": "2020-02-04",
     "license": "GPL-2.0-only",
     "authors": [
