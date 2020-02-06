@@ -1,0 +1,8 @@
+services:
+    kemrash.dontcopy.listener:
+        class: kemrash\dontcopy\event\listener
+        arguments:
+            - '@auth'
+            - '@template'
+        tags:
+            - { name: event.listener }
