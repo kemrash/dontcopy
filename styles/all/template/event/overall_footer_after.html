@@ -1,4 +1,4 @@
-<!-- IF KEMRASH_DONTCOPY-->
+{% if KEMRASH_DONTCOPY %}
 <script>
 //запрещает нажатие правой кнопки мыши на сайте
 document.oncontextmenu = cmenu; function cmenu() { return false; }
@@ -37,4 +37,4 @@ function preventSelection(element){
 }
 preventSelection(document);
 </script>
-<!-- ENDIF -->
+{% endif %}
